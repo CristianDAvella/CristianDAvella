@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Cristian D. Avella 😁</h1>
+<h1 align="center"><img align="center" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="cristiandavella" height="45" width="45" />😁 Hola, soy Cristian D. Avella</h1>
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cristiandavella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiandavella" height="30" width="40" /></a>
